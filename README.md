@@ -4,6 +4,9 @@
 
 ![Metrics](/github-metrics.svg)
 
+![Carlyleliu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlyleliu)
+
+
 ### About Me
 - 🔭 I’m currently working on smarthome project
 - 🌱 I’m currently learning usb and audio
