@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlyleliu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](/github-metrics.svg)
+
 ### About Me
 - 🔭 I’m currently working on smarthome project
 - 🌱 I’m currently learning usb and audio
