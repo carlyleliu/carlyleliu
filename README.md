@@ -1,5 +1,7 @@
 ## Hi there 👋 
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=潦倒不通事物，愚顽怕读文章;天下无能第一，古今不肖无双)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlyleliu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](/github-metrics.svg)
