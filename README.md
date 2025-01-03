@@ -14,6 +14,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlyleliu/carlyleliu/output/github-contribution-grid-snake.svg">
 </picture>
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ### About Me
