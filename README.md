@@ -16,6 +16,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [栈溢出](http://carlyleliu.github.io/Debug/stackOverflow/)
+- [Hexo Butterfly 使用手册](http://carlyleliu.github.io/Tools/HexoButterfltuserMenu/)
+- [CPUIdle](http://carlyleliu.github.io/Debug/LinuxCpuIdle/)
+- [记录一次UAC 丢包问题分析过程](http://carlyleliu.github.io/Debug/LinuxperfdebugExample/)
+- [Encryption Algorithm](http://carlyleliu.github.io/Embedded/EncryptionAlgorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 
