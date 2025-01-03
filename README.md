@@ -4,7 +4,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-![Carlyleliu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlyleliu)
+![Carlyleliu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlyleliu&theme=github-compact)
 
 
 ### About Me
