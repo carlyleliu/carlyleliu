@@ -14,6 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: user/metrics@master
+      - uses: carlyleliu/carlyleliu@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
