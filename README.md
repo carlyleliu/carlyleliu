@@ -27,8 +27,7 @@
 - [Encryption Algorithm](http://carlyleliu.github.io/Embedded/EncryptionAlgorithm/)
 <!-- BLOG-POST-LIST:END -->
 
-
-
+<!--
 ### About Me
 - 🔭 I’m currently working on smarthome project
 - 🌱 I’m currently learning usb and audio
@@ -37,3 +36,4 @@
 - 📫 How to reach me: yyliushuai@gmail.com
 - 💯 Pronouns: reader
 - 🙈 Fun fact: NAS、Router、Robot、smarthome
+-->
