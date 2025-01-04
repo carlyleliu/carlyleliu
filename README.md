@@ -2,11 +2,15 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=潦倒不通事物，愚顽怕读文章;天下无能第一，古今不肖无双)
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlyleliu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Carlyleliu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlyleliu&theme=github-compact)
+-->
 
 ![Metrics](/github-metrics.svg)
 
-![Carlyleliu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlyleliu&theme=github-compact)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlyleliu/carlyleliu/output/github-contribution-grid-snake-dark.svg">
