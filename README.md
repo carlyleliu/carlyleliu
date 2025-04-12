@@ -20,11 +20,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [自然语言处理](http://carlyleliu.github.io/Science/NaturalLanguageProcessing/)
-- [各gadget驱动配置](http://carlyleliu.github.io/LinuxDriver/LinuxUSBGadgetConf/)
-- [高次方程的解](http://carlyleliu.github.io/Science/QuadraticEquation/)
-- [从光速不变论到狭义相对论](http://carlyleliu.github.io/Science/LightSpeed/)
-- [光的本性之争](http://carlyleliu.github.io/Science/Lightiswave/)
+- [自然语言处理](https://carlyleliu.github.io/2025/Science/NaturalLanguageProcessing/)
+- [各gadget驱动配置](https://carlyleliu.github.io/2025/LinuxDriver/LinuxUSBGadgetConf/)
+- [高次方程的解](https://carlyleliu.github.io/2025/Science/QuadraticEquation/)
+- [从光速不变论到狭义相对论](https://carlyleliu.github.io/2025/Science/LightSpeed/)
+- [光的本性之争](https://carlyleliu.github.io/2025/Science/Lightiswave/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
