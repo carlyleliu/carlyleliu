@@ -20,11 +20,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [自然语言处理](https://carlyleliu.github.io/Science/NaturalLanguageProcessing/)
-- [各gadget驱动配置](https://carlyleliu.github.io/LinuxDriver/LinuxUSBGadgetConf/)
-- [高次方程的解](https://carlyleliu.github.io/Science/QuadraticEquation/)
-- [从光速不变论到狭义相对论](https://carlyleliu.github.io/Science/LightSpeed/)
-- [光的本性之争](https://carlyleliu.github.io/Science/Lightiswave/)
+- [[No Title] - Post](https://carlyleliu.github.io/Note/linux%E7%B3%BB%E7%BB%9F%E6%9E%84%E5%BB%BA/)
+- [Debug tips](https://carlyleliu.github.io/Debug/Tips/)
+- [栈溢出](https://carlyleliu.github.io/Debug/stackOverflow/)
+- [CPUIdle](https://carlyleliu.github.io/Debug/LinuxCpuIdle/)
+- [记录一次UAC 丢包问题分析过程](https://carlyleliu.github.io/Debug/LinuxperfdebugExample/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
